@@ -1,0 +1,7 @@
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageContrastEnhancement\ImageContrastEnhancement\bin\Debug\ImageContrastEnhancement.exe
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageContrastEnhancement\ImageContrastEnhancement\bin\Debug\ImageContrastEnhancement.pdb
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageContrastEnhancement\ImageContrastEnhancement\obj\x86\Debug\ImageContrastEnhancement.Form1.resources
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageContrastEnhancement\ImageContrastEnhancement\obj\x86\Debug\ImageContrastEnhancement.Properties.Resources.resources
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageContrastEnhancement\ImageContrastEnhancement\obj\x86\Debug\ImageContrastEnhancement.csproj.GenerateResource.Cache
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageContrastEnhancement\ImageContrastEnhancement\obj\x86\Debug\ImageContrastEnhancement.exe
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageContrastEnhancement\ImageContrastEnhancement\obj\x86\Debug\ImageContrastEnhancement.pdb
